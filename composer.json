@@ -1,0 +1,9 @@
+{
+    "name": "weed/plugin-generator",
+    "autoload": {
+        "psr-4": {
+            "repliedk\\plugingenerator\\": "src/"
+        }
+    },
+    "require": {}
+}
